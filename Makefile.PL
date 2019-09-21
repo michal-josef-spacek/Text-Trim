@@ -4,8 +4,8 @@ use ExtUtils::MakeMaker;
 
 my %WriteMakefileArgs   = (
     NAME                => 'Text::Trim',
-    AUTHOR              => [q{Ryan Thompson <rjt@cpan.org>},
-                            q{Matt Lawrence <mattlaw@cpan.org>}],
+    AUTHOR              => [q{Matt Lawrence <mattlaw@cpan.org>},
+                            q{Ryan Thompson <rjt@cpan.org>}],
     VERSION_FROM        => 'lib/Text/Trim.pm',
     ABSTRACT_FROM       => 'lib/Text/Trim.pm',
     LICENSE             => 'perl_5',
