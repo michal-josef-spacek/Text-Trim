@@ -185,11 +185,11 @@ B<Matt Lawrence> E<lt>mattlaw@cpan.orgE<gt> - Original author and maintainer
 
 B<Ryan Thompson> E<lt>rjt@cpan.orgE<gt> - Co-maintainer, miscellaneous fixes
 
-=head1 BUGS
+=head1 SUPPORT
 
-Please report any bugs or feature requests to C<bug-text-trim@rt.cpan.org>, 
-or through the web interface at
-L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Text-Trim>.
+L<https://github.com/rjt-pl/Text-Trim/issues>: Bug reports and feature requests
+
+L<https://github.com/rjt-pl/Text-Trim.git>: Source repository
 
 =head1 ACKNOWLEDGEMENTS
 
