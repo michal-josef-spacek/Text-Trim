@@ -9,11 +9,11 @@ Text::Trim - remove leading and/or trailing whitespace from strings
 
 =head1 VERSION
 
-version 1.03
+version 1.04
 
 =cut
 
-our $VERSION = '1.03';
+our $VERSION = '1.04';
 
 =head1 SYNOPSIS
 
