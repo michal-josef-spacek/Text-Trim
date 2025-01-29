@@ -18,7 +18,9 @@ my %WriteMakefileArgs   = (
         'Test::More'            => '0',
         'File::Spec::Functions' => '0',
     },
-    PREREQ_PM           => { },
+    PREREQ_PM           => {
+        'Exporter'              => '0',
+    },
 
     META_MERGE          => {
         resources => {
